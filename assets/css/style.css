@@ -1,0 +1,28 @@
+
+p {
+	margin-left: 8%;
+}
+
+h4 {
+	float:right; 
+	margin-top:90px;
+	margin-right: 32%;
+}
+
+#animalsbuttons {
+	margin: 5%;
+}
+
+
+#gifs {
+	float:left;
+    font-weight: bold;
+}
+
+#gif-input {
+	margin-right: 10%;
+}
+
+#theButton {
+	margin-left: 8px;
+}
